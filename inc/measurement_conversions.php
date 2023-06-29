@@ -1,0 +1,20 @@
+<?php
+    $measurement_conversions=[
+        'FlOz'=>[
+        	'notation'=>'floz',
+        	'scale'=>[
+	            128=>"gal",
+	            32=>"qt",
+	            16=>"pt",
+	            8=>"cup",
+	         ]
+        ],
+
+        'Oz'=>[
+        	'notation'=>'oz',
+        	'scale'=>[
+            	16=>"lb",
+            ]
+        ]
+        ];
+?>

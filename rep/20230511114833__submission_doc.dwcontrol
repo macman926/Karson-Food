@@ -1,0 +1,15 @@
+<ControlStatements xmlns="http://dev.docuware.com/Jobs/Control" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<Document>
+					<InsertFile path="./20230511114833__submission_doc.pdf"/>
+				</Document>
+				<Page>
+					<FileCabinet name="Orders"/>					
+					<Field dbName="DOCUMENT_TYPE" type="Text" value="Calendar"/>
+					
+					<Field dbName="ORDER_ID" type="Text" value="3"  />
+					<Field dbName="REC_ID" type="Text" value="8"  />
+					<Field dbName="CUSTOMER_NAME" type="Text" value="5 Stars"  />
+					
+				</Page>
+			</ControlStatements>
+			
